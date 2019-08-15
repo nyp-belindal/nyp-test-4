@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: hello
-permalink: /left-nav-two/hello/
-breadcrumb: hello
+title: Sub Page D
+permalink: /left-nav-two/sub-page-C/
+breadcrumb: Sub Page C
 collection_name: left-nav-two
 ---
 
