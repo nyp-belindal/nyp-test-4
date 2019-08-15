@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Test Page A
-permalink: /left-nav-one/test-page-A/
+permalink: /left-nav-one/test-page-a/
 breadcrumb: Test Page A
 collection_name: left-nav-one
 ---
