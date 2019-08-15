@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Test Page A
-permalink: /left-nav-one/test-page-a/
-breadcrumb: Test Page A
+title: Sub Page A
+permalink: /left-nav-one/sub-page-a/
+breadcrumb: Sub Page A
 collection_name: left-nav-one
 ---
 
