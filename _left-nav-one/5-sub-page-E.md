@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Sub Page E
+title: Sub Page D - Francis
 permalink: /left-nav-one/sub-page-e/
-breadcrumb: Sub Page E
+breadcrumb: Sub Page D
 collection_name: left-nav-one
 ---
 
